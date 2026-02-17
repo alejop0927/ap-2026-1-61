@@ -12,7 +12,7 @@ Para el desarrollo de las actividades de la clase, utilizaremos un flujo de trab
 
 No trabajará directamente sobre el repositorio del profesor. Cada uno debe tener su copia personal en la nube.
 
-1. Entre al enlace del repositorio de la clase: [https://github.com/jhquiza/ap-2026-1-61].
+1. Entre al enlace del repositorio de la clase: https://github.com/jhquiza/ap-2026-1-61.
 2. En la esquina superior derecha, haga clic en el botón **Fork**.
 3. Asegúrese de que el "Owner" sea su usuario de GitHub y hagan clic en **Create fork**.
 
@@ -42,7 +42,7 @@ Este paso es vital. Sirve para que, si el profesor añade nuevo material o corri
 En su terminal, dentro de la carpeta del proyecto, ejecute:
 
 ```bash
-# Agregamos el repo del profesor como una fuente remota llamada "upstream"
+# Agregue el repo del profesor como una fuente remota llamada "upstream"
 git remote add upstream https://github.com/jhquiza/ap-2026-1-61.git
 
 # Verifique que ahora tiene dos remotos: origin (el suyo) y upstream (el de la clase)
